@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Kirk Ortiz",
+      "id": 9
+    },
+    {
+      "name": "Larry Bogan",
+      "id": 12
+    },
+    {
+      "name": "David Cole",
+      "id": 15
+    },
+    {
+      "name": "Ian Hintz",
+      "id": 16
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
