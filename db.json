@@ -5,18 +5,76 @@
       "id": 9
     },
     {
-      "name": "Larry Bogan",
-      "id": 12
+      "name": "Lena Mosciski",
+      "id": 10
     },
     {
-      "name": "David Cole",
-      "id": 15
-    },
-    {
-      "name": "Ian Hintz",
-      "id": 16
+      "name": "Linda Thompson",
+      "id": 11
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "userId": 11,
+      "title": "Fantastic Metal Table",
+      "id": 3
+    },
+    {
+      "userId": 11,
+      "title": "Practical Steel Mouse",
+      "id": 4
+    },
+    {
+      "userId": 9,
+      "title": "Luxurious Soft Ball",
+      "id": 5
+    },
+    {
+      "userId": 10,
+      "title": "Small Cotton Soap",
+      "id": 6
+    },
+    {
+      "userId": 9,
+      "title": "Modern Plastic Mouse",
+      "id": 7
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=14146",
+      "id": 1
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=82243",
+      "id": 2
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=15948",
+      "id": 3
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=22614",
+      "id": 4
+    },
+    {
+      "albumId": 7,
+      "url": "https://loremflickr.com/150/150/abstract?lock=12312",
+      "id": 5
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=16348",
+      "id": 6
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=45882",
+      "id": 7
+    }
+  ]
 }
